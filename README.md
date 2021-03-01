@@ -1,2 +1,2 @@
 # crawl-news
- Crawl the newest artical from TuoiTre
+ Crawl the newest articals from TuoiTre
